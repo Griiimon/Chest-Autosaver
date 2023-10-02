@@ -7,6 +7,8 @@ Add a chest scene to the main scene. This will automatically run a tool script t
 
 Now you can change the gold inside that chest in the editor and it will be automatically saved and persists or change it while running the game and call `save()` on the chest to make it persist.
 
+Running the main scene is an example of how its possible to change the gold value in-game.
+
 # Notes
 
 Havent tested with:
